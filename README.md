@@ -4,7 +4,7 @@ El repositorio, es una base para las soluciones de odoo usando Docker
 
 ## Instalacion
 
-
+sdfsdfds
 ```bash
 docker-compose build
 ```
